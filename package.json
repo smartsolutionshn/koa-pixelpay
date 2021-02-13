@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "PixelPay Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartsolutionshn/koa-pixelpay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartsolutionshn/koa-pixelpay/issues"
+  },
+  "homepage": "https://github.com/smartsolutionshn/koa-pixelpay#readme",
+  "dependencies": {
+    "@pixelpay/sdk": "^1.0.14",
+    "koa": "^2.13.1"
+  }
+}

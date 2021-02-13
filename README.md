@@ -1,1 +1,7 @@
-# koa-pixelpay
+# instalar
+
+npm i
+
+# ejecutar
+
+node index.js
